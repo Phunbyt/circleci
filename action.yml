@@ -1,0 +1,7 @@
+name: "Phunbyt, Hello World"
+description: 'My first CI CD project'
+author: "Phunbyt <phunbytcode@gmail.com>"
+
+runs:
+  using: "node14"
+  main: "index.js"
